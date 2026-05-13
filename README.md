@@ -75,7 +75,7 @@
 <div align="center">
   <table style="width: 90%; max-width: 1100px; margin: auto; border-collapse: separate; border-spacing: 20px;">
     <tr>
-      <td width="80%" style="background: #0F172A; border-radius: 20px; padding: 20px; border: 1px solid #1E293B;">
+      <td width="50%" style="background: #0F172A; border-radius: 20px; padding: 20px; border: 1px solid #1E293B;">
         <h3 style="color: #60A5FA;">📚 NPIT LMS</h3>
         <p><em>Enterprise Learning Management System</em></p>
         <ul style="text-align: left; color: #CBD5E1;">
@@ -87,11 +87,21 @@
         <p><strong>Stack:</strong> React, Node.js, Express, MongoDB, PostgreSQL</p>
         <p><strong>My Role:</strong> System Architecture · REST APIs · RBAC</p>
       </td>
-      
+      <td width="50%" style="background: #0F172A; border-radius: 20px; padding: 20px; border: 1px solid #1E293B;">
+       <h3 style="color: #60A5FA;">📚 NP Tour company</h3>
+        <p><em>Enterprise tour side</em></p>
+        <ul style="text-align: left; color: #CBD5E1;">
+          <li>Role-based access (Hotel, Cars, Tour operator)</li>
+          <li>Multi-tenant support for hotel & cars</li>
+          <li>Hotel, cars and user dashboards</li>
+          <li>JWT authentication & protected routes</li>
+        </ul>
+        <p><strong>Stack:</strong> React, Node.js, Express, MongoDB, PostgreSQL</p>
+        <p><strong>My Role:</strong> System Architecture · REST APIs · RBAC</p>
+      </td>
     </tr>
   </table>
 </div>
-
 <br />
 
 <!-- GitHub Stats -->
