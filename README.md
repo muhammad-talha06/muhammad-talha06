@@ -19,7 +19,7 @@
 <!-- Professional Info Cards -->
 <div align="center">
   <table style="width: 90%; max-width: 1000px; margin: auto; border-collapse: collapse; background: transparent;">
-    <tr>
+    
       <td align="center" style="background: #0F172A; border-radius: 16px; padding: 16px; border: 1px solid #1E293B;">
         🔭 <strong style="color:#3B82F6;">Current Focus</strong><br />
         NPIT LMS 
