@@ -88,16 +88,7 @@
         <p><strong>My Role:</strong> System Architecture · REST APIs · RBAC</p>
       </td>
       <td width="50%" style="background: #0F172A; border-radius: 20px; padding: 20px; border: 1px solid #1E293B;">
-        <h3 style="color: #60A5FA;">🤖 AI Language Translator</h3>
-        <p><em>NLP-Powered Real-Time Translation</em></p>
-        <ul style="text-align: left; color: #CBD5E1;">
-          <li>Data preprocessing & tokenization pipelines</li>
-          <li>Model fine-tuning (PyTorch / TensorFlow)</li>
-          <li>Evaluation with BLEU & F1 metrics</li>
-          <li>FastAPI backend + React frontend</li>
-        </ul>
-        <p><strong>Stack:</strong> Python, PyTorch, Hugging Face, FastAPI, React</p>
-        <p><strong>Goal:</strong> Accurate & scalable cross-language translation</p>
+        
       </td>
     </tr>
   </table>
